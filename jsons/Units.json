@@ -7,8 +7,9 @@
 		"movement": 3,
 		"strength": 10,
 		"cost": 50,
+		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"promotions": ["Woodsman"],
+		"attackSound": "nonmetalhit"
 	}
 ]
