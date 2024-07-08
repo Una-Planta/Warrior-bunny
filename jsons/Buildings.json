@@ -3,7 +3,7 @@
 		"name": "Palace Bunnys",
 		"isNationalWonder": true,
 		"replaces": "Palace",
-		"uniqueTo": "Rabbi Warrior Tribe",
+		"uniqueTo": "Rabbit Warrior Tribe",
 		"production": 3,
 		"science": 3,
 		"gold": 4,
