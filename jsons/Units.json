@@ -10,7 +10,7 @@
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"promotions": ["Woodsman"],
-		"uniques": ["+[40]% Strength <when fighting in [Forest] tiles>", "+[40]% Strength <when fighting in [Jungle] tiles>"],
+		"uniques": ["[+40]% Strength"],
 		"attackSound": "nonmetalhit"
 	}
 ]
