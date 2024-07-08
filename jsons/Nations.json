@@ -30,7 +30,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "Dolor y venganza",
-		"uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>", "[+33]% Strength <for [All] units> <when fighting in [Forest] tiles>"],
+		"uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>", "[+33]% Strength <for [All] units> <when fighting in [Forest] tiles>", "[+33]% Strength <for [All] units> <when fighting in [Jungle] tiles>"],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
