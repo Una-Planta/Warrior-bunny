@@ -9,7 +9,7 @@
 		"cost": 50,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"promotions": ["Woodsman", "Warrior Bunny"],
+		"promotions": ["Woodsman", "[Warrior Bunny] ability"],
 		"attackSound": "nonmetalhit"
 	}
 ]
