@@ -11,5 +11,12 @@
 		"upgradesTo": "Swordsman",
 		"promotions": ["Woodsman", "[Warrior Bunny] ability"],
 		"attackSound": "nonmetalhit"
-	}
+	},
+	{
+		"name": "Worker Bunny",
+		"unitType": "Civilian",
+		"movement": 3,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 80
+	},
 ]
