@@ -16,6 +16,8 @@
 		"name": "Worker Bunny",
 		"unitType": "Civilian",
 		"movement": 3,
+		"uniqueTo": "Rabbit Warrior Tribe",
+		"replaces": "Worker",
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"cost": 80
 	},
