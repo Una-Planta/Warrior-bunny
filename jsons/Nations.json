@@ -67,7 +67,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "Salve el Caecesar",
-		"uniques": ["[+50]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>", "[-50]% [Food] [in all cities]","[-50]% [Culture] [in all cities]","[-50]% [Faith] [in all cities]", "[-50]% [Science] [in all cities]", "[+50]% [production] [in all cities]", "New [Military] units start with [15] Experience [in all cities]"],
+		"uniques": ["[+50]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>", "[-50]% [Food] [in all cities]","[-50]% [Culture] [in all cities]","[-50]% [Faith] [in all cities]", "[-50]% [Science] [in all cities]", "[+50]% [Production] [in all cities]", "New [Military] units start with [15] Experience [in all cities]"],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
