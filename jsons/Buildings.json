@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Palace Bunnys",
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"replaces": "Palace",
+		"uniqueTo": "Rabbi Warrior Tribe",
+		"production": 3,
+		"science": 3,
+		"gold": 4,
+		"culture": 3,
+		"cityStrength": 3,
+		"cost": 1,
+		"uniques": ["Indicates the capital city"]
 	},
 	{
 		"name": "Breeders",
