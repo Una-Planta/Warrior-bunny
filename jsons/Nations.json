@@ -31,48 +31,10 @@
 		"innerColor": [255,200,200],
 		"uniqueName": "Dolor y venganza",
 		"uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>", "[+15]% Strength <for [All] units> <when fighting in [Forest] tiles>", "[+15]% Strength <for [All] units> <when fighting in [Jungle] tiles>", "[+1] Movement <for [Sword] units> <when moving in [Forest] tiles>"],
-		"cities": [Aquí tienes un nombre para la capital y 34 nombres para las ciudades del Clan de Conejas Guerreras en tu mod de Civilization V:
-
-### Capital
-1. **Lapine**
-
-### Ciudades
-2. **Eburacum**
-3. **Leporida**
-4. **Warrenvale**
-5. **Bunborough**
-6. **Harengon**
-7. **Thumperton**
-8. **Fluffington**
-9. **Burrowfield**
-10. **Cottontail**
-11. **Harewood**
-12. **Leveret**
-13. **Bunnyborough**
-14. **Cloverfield**
-15. **Moonshadow**
-16. **Thumpstead**
-17. **Dewsbury**
-18. **Thistledown**
-19. **Nibbleshire**
-20. **Briarpatch**
-21. **Whiskerwood**
-22. **Hopdale**
-23. **Twitchbury**
-24. **Brambleton**
-25. **Pawton**
-26. **Springtail**
-27. **Fernhollow**
-28. **Hopperton**
-29. **Cottontown**
-30. **Meadowbrook**
-31. **Warrenburg**
-32. **Cloverhill**
-33. **Dewpoint**
-34. **Brambleshire**
-35. **Willowburrow**
-
-Espero que estos nombres se ajusten bien a la temática del Clan de Conejas Guerreras y te ayuden a crear un mod inmersivo y divertido para Civilization V. Si necesitas más nombres o ajustes, házmelo saber.]
+		"cities": ["Lapine", "Ebura", "Leporida", "Warrenvale","Bunborough","Harengon","Thumperton","Fluffington","Burrowfield",
+			"Cottontail","Harewood","Leveret","Bunnyborough","Cloverfield","Moonshadow","Thumpstead","Dewsbury","Thistledown",
+			"Nibbleshire","Briarpatch","Whiskerwood","Hopdale","Twitchbury","Brambleton","Pawton","Springtail","Fernhollow",
+			"Hopperton","Cottontown","Meadowbrook","Warrenburg", "Cloverhill","Dewpoint", "Brambleshire", "Willowburrow"]
 	},
 	{
 		"name": "Empire Zorzal",
