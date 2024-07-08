@@ -25,7 +25,7 @@
 		"name": "Settle Bunny",
 		"uniqueTo": "Rabbit Warrior Tribe",
 		"unitType": "Civilian",
-		"replaces": "Settle",
+		"replaces": "Settler",
 		"movement": 3,
 		"cost": 115,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
