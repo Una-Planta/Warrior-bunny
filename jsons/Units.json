@@ -21,4 +21,28 @@
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"cost": 80
 	},
+	{
+		"name": "Settle Bunny",
+		"uniqueTo": "Rabbit Warrior Tribe",
+		"unitType": "Civilian",
+		"replaces": "Settle",
+		"movement": 3,
+		"cost": 115,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Scout Bunny",
+		"uniqueTo": "Rabbit Warrior Tribe",
+		"unitType": "Scout",
+		"replaces": "Scout",
+		"movement": 3,
+		"strength": 7,
+		"cost": 35,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
 ]
