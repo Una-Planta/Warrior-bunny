@@ -35,5 +35,42 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	},
+	{
+		"name": "Empire Zorzal",
+		"leaderName": "Zorzal",
+		"adjective": ["Saderan"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "¡Somos guerras con honor",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		
+		"declaringWar": "¡Rindete, entrega tus riquezas y a tu gente!",
+		"attacked": "¡Eres un imbecil si crees que ganaras!",
+		"defeated": "Demonio, haz hecho trampa.",
+		"introduction": "Inclinate ante el poderoso emperador Zorzal el caecesar.",
+		
+		"neutralHello": "Bienvenido a nuestra tierra.",
+		"neutralLetsHearIt": ["¿Qué deseas discutir?.","Estoy escuchando.","Dime lo que piensas."],
+		"neutralNo": ["No podemos aceptar.","Me temo que no.","Me temo que no."],
+		"neutralYes": ["Aceptamos tu propuesta.","Eso suena justo.","Estamos de acuerdo."],
+
+		"hateHello": "No eres bienvenido aquí.",
+		"hateLetsHearIt": ["¿Qué excusas traes ahora?","Dime, traidor.","¿Qué intentas conseguir?"],
+		"hateNo": ["Nunca.","Ni lo sueñes.","Eso no sucederá."],
+		"hateYes": ["Aceptamos, pero no confíes.","Sólo por esta vez.","Que así sea, por ahora."],
+		
+		"afterPeace": "Aunque hemos hecho las paces, no olvidaremos tus acciones pasadas. Caminemos con cautela en esta tregua.",
+		"tradeRequest": "Proponemos un intercambio que beneficiará a ambas partes. Considera nuestra oferta cuidadosamente, ya que podría fortalecer nuestros lazos.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Salve el Caecesar",
+		"uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>", "[+15]% Strength <for [All] units> <when fighting in [Forest] tiles>", "[+15]% Strength <for [All] units> <when fighting in [Jungle] tiles>", "[+1] Movement <for [Sword] units> <when moving in [Forest] tiles>"],
+		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
 ]
