@@ -14,18 +14,18 @@
 		"defeated": "Me entrego a ti en cuerpo y alma, pero deja a mi gente en paz.",
 		"introduction": "Somos guerreras, no salvajes, te respetaremos hasta donde tu decidas respetarnos a nosotras.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Bienvenido a nuestra tierra.",
+		"neutralLetsHearIt": ["¿Qué deseas discutir?.","Estoy escuchando.","Dime lo que piensas."],
+		"neutralNo": ["No podemos aceptar.","Me temo que no.","Me temo que no."],
+		"neutralYes": ["Aceptamos tu propuesta.","Eso suena justo.","Estamos de acuerdo."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "No eres bienvenido aquí.",
+		"hateLetsHearIt": ["¿Qué excusas traes ahora?","Dime, traidor.","¿Qué intentas conseguir?"],
+		"hateNo": ["Nunca.","Ni lo sueñes.","Eso no sucederá."],
+		"hateYes": ["Aceptamos, pero no confíes.","Sólo por esta vez.","Que así sea, por ahora."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Aunque hemos hecho las paces, no olvidaremos tus acciones pasadas. Caminemos con cautela en esta tregua.",
+		"tradeRequest": "Proponemos un intercambio que beneficiará a ambas partes. Considera nuestra oferta cuidadosamente, ya que podría fortalecer nuestros lazos.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
