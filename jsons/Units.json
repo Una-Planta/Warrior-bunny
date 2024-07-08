@@ -45,4 +45,17 @@
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
+		{
+		"name": "Hunter Bunny",
+		"unitType": "Archery",
+		"replaces": "Archer",
+		"movement": 3,
+		"strength": 7,
+		"rangedStrength": 9,
+		"cost": 50,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
 ]
