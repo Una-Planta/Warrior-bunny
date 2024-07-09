@@ -30,7 +30,7 @@
 		"outerColor": [42,47,94],
 		"innerColor": [74,83,166],
 		"uniqueName": "Dolor y venganza",
-		"uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>", "[+15]% Strength <for [All] units> <when fighting in [Forest] tiles>", "[+15]% Strength <for [All] units> <when fighting in [Jungle] tiles>", "[+1] Movement <for [Sword] units> <when moving in [Forest] tiles>"],
+		"uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>", "[+15]% Strength <for [All] units> <when fighting in [Forest] tiles>", "[+15]% Strength <for [All] units> <when fighting in [Jungle] tiles>"],
 		"cities": ["Lapine", "Ebura", "Leporida", "Warrenvale","Bunborough","Harengon","Thumperton","Fluffington","Burrowfield",
 			"Cottontail","Harewood","Leveret","Bunnyborough","Cloverfield","Moonshadow","Thumpstead","Dewsbury","Thistledown",
 			"Nibbleshire","Briarpatch","Whiskerwood","Hopdale","Twitchbury","Brambleton","Pawton","Springtail","Fernhollow",
