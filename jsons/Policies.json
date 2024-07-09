@@ -26,12 +26,10 @@
                 "column": 4
             },
             {
-                "name": "Fascism",
-                "uniques": [
-                    "Quantity of strategic resources produced by the empire +[100]%",
-                    "[+2] Movement <for [Great General] units>"
+                "name": "Ida y Vuelta",
+                "uniques": ["[All] units gain the [Ida y vuelta] promotion"
                 ],
-                "requires": ["Populism", "Militarism"],
+                "requires": ["Rencor"],
                 "row": 2,
                 "column": 2
             },
