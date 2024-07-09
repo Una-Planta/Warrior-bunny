@@ -6,6 +6,6 @@
   },
   {
     "name": "[Ida y Vuelta]",
-    "uniques": "Withdraws before melee combat <with [15]% chance>"
+    "uniques": ["Withdraws before melee combat <with [15]% chance>"]
   },
 ]
