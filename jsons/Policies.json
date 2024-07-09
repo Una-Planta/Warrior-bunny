@@ -27,7 +27,7 @@
             },
             {
                 "name": "Ida y Vuelta",
-                "uniques": ["[All] units gain the [Ida y vuelta] promotion"
+                "uniques": ["[All] units gain the [Ida y Vuelta] promotion"
                 ],
                 "requires": ["Rencor"],
                 "row": 2,
