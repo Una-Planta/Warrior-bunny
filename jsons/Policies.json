@@ -10,20 +10,20 @@
             "Scientific": 10,
       },
         "uniques": [
-          "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+          "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
         ],
         "policies": [
             {
                 "name": "Rencor",
                 "uniques": ["[+25]% Strength <for [Wounded] units>"],
                 "row": 1,
-                "column": 2
+                "column": 1
             },
             {
                 "name": "Naturaleza",
                 "uniques": ["+1 Happiness] [in all cities] <in tiles with [Forest]>", "+1 Happiness] [in all cities] <in tiles with [Jungle]>"],
                 "row": 1,
-                "column": 4
+                "column": 1
             },
             {
                 "name": "Ida y Vuelta",
@@ -40,7 +40,7 @@
                 ],
                 "requires": ["Naturaleza"],
                 "row": 2,
-                "column": 4
+                "column": 2
             },
             {
                 "name": "Mestizaje",
