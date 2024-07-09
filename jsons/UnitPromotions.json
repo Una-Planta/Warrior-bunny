@@ -1,8 +1,8 @@
 [
   // Melee
   {
-    		"name": "[Warrior Bunny] ability",
-    		"uniques": ["[+1] Sight"],
+    "name": "[Warrior Bunny] ability",
+    "uniques": ["[+1] Sight"],
   },
   {
     "name": "[Ida y Vuelta]",
