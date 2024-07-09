@@ -1,4 +1,4 @@
-8[
+[
   {
     "name": "Warrior Bunny",
     "era": "Ancient era",
@@ -34,13 +34,11 @@
                 "column": 2
             },
             {
-                "name": "Police State",
+                "name": "Contra el imperio",
                 "uniques": [
-                    "[+3 Happiness] from every [Courthouse]",
-                    "[+100]% Production when constructing [Courthouse] buildings [in all cities]",
-                    "[-25]% enemy spy effectiveness [in all cities]"
+                    "[+20]% Strength <when fighting units from a Civilization with more Cities than you>"
                 ],
-                "requires": ["Militarism"],
+                "requires": ["Naturaleza"],
                 "row": 2,
                 "column": 4
             },
