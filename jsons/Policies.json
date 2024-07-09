@@ -7,7 +7,7 @@
             "Cultural": 0,
             "Diplomatic": 0,
             "Domination": 20,
-            "Scientific": 10,
+            "Scientific": 0,
       },
         "uniques": [
           "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
