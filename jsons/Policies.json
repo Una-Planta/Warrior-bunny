@@ -1,6 +1,6 @@
 8[
   {
-    "name": "Warrii Bunny",
+    "name": "Warrior Bunny",
     "era": "Ancient era",
     "priorities": {
             "Neutral": 0,
@@ -10,7 +10,7 @@
             "Scientific": 10,
       },
         "uniques": [
-            "[+10]% Strength <whe fighting [Friend] tiles>"
+          "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
         ],
         "policies": [
             {
