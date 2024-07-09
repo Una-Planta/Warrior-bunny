@@ -14,14 +14,14 @@
         ],
         "policies": [
             {
-                "name": "Populism",
+                "name": "Rencor",
                 "uniques": ["[+25]% Strength <for [Wounded] units>"],
                 "row": 1,
                 "column": 2
             },
             {
-                "name": "Militarism",
-                "uniques": ["[Gold] cost of purchasing [All] units [-33]%"],
+                "name": "Naturaleza",
+                "uniques": ["+1 Happiness] [in all cities] <in tiles with [Forest]>", "+1 Happiness] [in all cities] <in tiles with [Jungle]>"],
                 "row": 1,
                 "column": 4
             },
