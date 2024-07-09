@@ -20,8 +20,10 @@
                 "column": 2
             },
             {
-                "name": "Muerte del principe",
-                "uniques": ["+2 [Happiness] [in all cities]"],
+                "name": "Contra el imperio",
+                "uniques": [
+                    "[+20]% Strength <when fighting units from a Civilization with more Cities than you>"
+                ],
                 "row": 1,
                 "column": 4
             },
@@ -34,11 +36,9 @@
                 "column": 2
             },
             {
-                "name": "Contra el imperio",
-                "uniques": [
-                    "[+20]% Strength <when fighting units from a Civilization with more Cities than you>"
-                ],
-                "requires": ["Muerte del principe"],
+                "name": "Muerte del principe",
+                "uniques": ["[+2 Happiness] [in all cities]"],
+                "requires": ["Contra el imperio"],
                 "row": 2,
                 "column": 4
             },
