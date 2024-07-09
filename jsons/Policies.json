@@ -45,7 +45,7 @@
             {
                 "name": "Mestizaje",
                 "uniques": [
-                 "[+20]% growth [in al cities]",
+                 "[+20]% growth [in all cities]",
                 ],
                 "requires": ["Ida y Vuelta", "Contra el imperio"],
                 "row": 3,
