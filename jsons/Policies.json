@@ -54,7 +54,7 @@
             {
                 "name": "Warrior Bunny Complete",
                 "uniques": [
-                  "[+1] Movement <for [Sword] units>"
+                  "[+1] Movement <for [Sword] units>", "[+1] Movement <for [Gunpowder] units>"
                 ]
             }
         ]
