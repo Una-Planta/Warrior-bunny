@@ -43,12 +43,11 @@
                 "column": 4
             },
             {
-                "name": "Total War",
+                "name": "Mestizaje",
                 "uniques": [
-                    "[+25]% Production when constructing [Military] units [in all cities]",
-                    "New [Military] units start with [15] Experience [in all cities]"
+                 "[+20]% growth [in al cities]",
                 ],
-                "requires": ["Police State", "Fascism"],
+                "requires": ["Ida y Vuelta", "Contra el imperio"],
                 "row": 3,
                 "column": 3
             },
