@@ -43,7 +43,7 @@
                 "column": 4
             },
             {
-                "name": "Mestizaje",
+                "name": "Prosperidad",
                 "uniques": [
                  "[+20]% growth [in all cities]",
                 ],
@@ -54,7 +54,8 @@
             {
                 "name": "Warrior Bunny Complete",
                 "uniques": [
-                  "[+1] Movement <for [Sword] units>", "[+1] Movement <for [Gunpowder] units>"
+                  "[+1] Movement <for [Sword] units>",
+                  "[+1] Movement <for [Gunpowder] units>"
                 ]
             }
         ]
