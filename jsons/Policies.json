@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Warrii Bunny",
+    "era": "Ancient era",
+    "priorities": {
+            "Neutral": 0,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 20,
+            "Scientific": 10,
