@@ -4,4 +4,8 @@
     		"name": "[Warrior Bunny] ability",
     		"uniques": ["[+1] Sight"],
   },
+  {
+    "name": "[Ida y Vuelta]",
+    "uniques": "Withdraws before melee combat <with [15]% chance>"
+  },
 ]
