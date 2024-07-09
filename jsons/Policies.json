@@ -47,7 +47,7 @@
                 "uniques": [
                  "[+20]% growth [in all cities]",
                 ],
-                "requires": ["Ida y Vuelta", "Contra el imperio"],
+                "requires": ["Ida y Vuelta", "Muerte del principe"],
                 "row": 3,
                 "column": 3
             },
