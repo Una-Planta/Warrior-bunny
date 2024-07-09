@@ -21,7 +21,7 @@
             },
             {
                 "name": "Naturaleza",
-                "uniques": ["+1 Happiness] [in all cities] <in tiles with [Forest]>", "+1 Happiness] [in all cities] <in tiles with [Jungle]>"],
+                "uniques": ["+1 [Happiness] [in all cities] <in tiles with [Forest]>", "+1 [Happiness] [in all cities] <in tiles with [Jungle]>"],
                 "row": 1,
                 "column": 4
             },
@@ -52,7 +52,7 @@
                 "column": 3
             },
             {
-                "name": "Warrio Bunny Complete",
+                "name": "Warrior Bunny Complete",
                 "uniques": [
                   "[+1] Movement <for [Sword] units>"
                 ]
