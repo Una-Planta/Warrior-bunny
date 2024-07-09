@@ -52,10 +52,9 @@
                 "column": 3
             },
             {
-                "name": "Autocracy Complete",
+                "name": "Warrio Bunny Complete",
                 "uniques": [
-                    "[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>",
-                    "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
+                  "[+1] Movement <for [Sword] units>"
                 ]
             }
         ]
