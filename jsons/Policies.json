@@ -20,8 +20,8 @@
                 "column": 2
             },
             {
-                "name": "Naturaleza",
-                "uniques": ["+1 [Happiness] [in all cities] <in tiles with [Forest]>", "+1 [Happiness] [in all cities] <in tiles with [Jungle]>"],
+                "name": "Muerte del principe",
+                "uniques": ["+2 [Happiness] [in all cities]"],
                 "row": 1,
                 "column": 4
             },
@@ -38,7 +38,7 @@
                 "uniques": [
                     "[+20]% Strength <when fighting units from a Civilization with more Cities than you>"
                 ],
-                "requires": ["Naturaleza"],
+                "requires": ["Muerte del principe"],
                 "row": 2,
                 "column": 4
             },
