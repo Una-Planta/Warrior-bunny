@@ -15,14 +15,14 @@
         "policies": [
             {
                 "name": "Rencor",
-                "uniques": ["[+25]% Strength <for [Wounded] units>"],
+                "uniques": ["[+15]% Strength <for [Wounded] units>"],
                 "row": 1,
                 "column": 2
             },
             {
                 "name": "Contra el imperio",
                 "uniques": [
-                    "[+20]% Strength <when fighting units from a Civilization with more Cities than you>"
+                    "[+15]% Strength <when fighting units from a Civilization with more Cities than you>"
                 ],
                 "row": 1,
                 "column": 4
@@ -43,7 +43,7 @@
                 "column": 4
             },
             {
-                "name": "Prosperidad",
+                "name": "Paz Post Guerra",
                 "uniques": [
                  "[+20]% growth [in all cities]",
                 ],
