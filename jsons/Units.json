@@ -62,7 +62,7 @@
 		{
 		"name": "Chariot Archer Bunny",
 		"unitType": "Archery",
-		"replaces": "Chario Archer",
+		"replaces": "Chariot Archer",
 		"uniqueTo": "Rabbit Warrior Tribe",
 		"movement": 4,
 		"strength": 8,
