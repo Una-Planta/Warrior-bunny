@@ -1,6 +1,7 @@
 [
   {
     "name": "Warrior Bunny",
+    "uniqueTo": "Rabbit Warrior Tribe",
     "era": "Ancient era",
     "priorities": {
             "Neutral": 0,
