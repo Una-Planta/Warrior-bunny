@@ -31,7 +31,7 @@
             {
                 "name": "Ida y Vuelta",
                 "uniques": ["[Ranged Gunpowder] units gain the [Ida y Vuelta] promotion",
-                  "[Gunpowder] units gain the [Ida y Vuelta] promotion"
+                  "[Archery] units gain the [Ida y Vuelta] promotion"
                 ],
                 "requires": ["Rencor"],
                 "row": 2,
