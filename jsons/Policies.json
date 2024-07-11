@@ -29,7 +29,8 @@
             },
             {
                 "name": "Ida y Vuelta",
-                "uniques": ["[All] units gain the [Ida y Vuelta] promotion"
+                "uniques": ["[Ranged Gunpowder] units gain the [Ida y Vuelta] promotion",
+                  "[Gunpowder] units gain the [Ida y Vuelta] promotion"
                 ],
                 "requires": ["Rencor"],
                 "row": 2,
@@ -37,7 +38,7 @@
             },
             {
                 "name": "Muerte del principe",
-                "uniques": ["[+2 Happiness] [in all cities]"],
+                "uniques": ["[+2 Happiness] [in all cities]", "[+5 Happiness] [in capital city]"],
                 "requires": ["Contra el imperio"],
                 "row": 2,
                 "column": 4
