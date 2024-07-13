@@ -28,7 +28,8 @@
 		"replaces": "Settler",
 		"movement": 3,
 		"cost": 115,
-		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+		"uniques": ["Founds a new city <by consuming this unit>", 
+			"Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
 	},
@@ -41,7 +42,8 @@
 		"strength": 7,
 		"cost": 35,
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", 
+			"Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
@@ -72,7 +74,8 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight Bunny",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Never appears as a Barbarian unit"],
+		"uniques": ["No defensive terrain bonus", "Rough terrain penalty",
+			"Never appears as a Barbarian unit"],
 		"attackSound": "arrow"
 	},
 	{
@@ -87,7 +90,8 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", 
+			"[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
 	{
@@ -152,8 +156,18 @@
 		"strength": 77,
 		"cost": 410,
 		"requiredTech": "Plastics",
-		"upgradesTo": "Mechanized Infantry",
+		"upgradesTo": "Mechanized Infantry Bunny",
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
+	},
+	{
+		"name": "Mechanized Infantry Bunny",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 100,
+		"cost": 425,
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["Never appears as a Barbarian unit", "[+15]% XP gained from combat"],
+		"attackSound": "tankshot"
 	},
 ]
