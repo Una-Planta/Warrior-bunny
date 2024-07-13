@@ -39,7 +39,7 @@
             },
             {
                 "name": "Muerte del principe",
-                "uniques": ["[+2 Happiness] [in all cities]", "[+5 Happiness] [in capital city]"],
+                "uniques": ["[+2 Happiness] [in all cities]", "[+5 Happiness] [in Capital]"],
                 "requires": ["Contra el imperio"],
                 "row": 2,
                 "column": 4
