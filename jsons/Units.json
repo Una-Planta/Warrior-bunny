@@ -97,6 +97,8 @@
 	{
 		"name": "Cavalry Bunny",
 		"unitType": "Mounted",
+		"replaces": "Cavalry",
+		"uniqueTo": "Rabbit Warrior Tribe",
 		"movement": 4,
 		"strength": 38,
 		"cost": 240,
@@ -110,15 +112,58 @@
 	{
 		"name": "Landship Bunny",
 		"unitType": "Armored",
+		"replaces": "Landship",
+		"uniqueTo": "Rabbit Warrior Tribe",
 		"movement": 4,
-		"strength": 66,
+		"strength": 70,
 		"cost": 380,
 		"requiredTech": "Combustion",
 		"requiredResource": "Oil",
-		"upgradesTo": "Tank",
+		"upgradesTo": "Tank Bunny",
 		"obsoleteTech": "Combined Arms",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
+	},
+	{
+		"name": "Tank Bunny",
+		"unitType": "Armored",
+		"replaces": "Tank",
+		"uniqueTo": "Rabbit Warrior Tribe",
+		"movement": 5,
+		"strength": 85,
+		"cost": 410,
+		"requiredTech": "Combined Arms",
+		"requiredResource": "Oil",
+		"upgradesTo": "Modern Armor Bunny",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Modern Armor Bunny",
+		"unitType": "Armored",
+		"replaces": "Modern Armor",
+		"uniqueTo": "Rabbit Warrior Tribe",
+		"movement": 5,
+		"strength": 120,
+		"cost": 465,
+		"requiredTech": "Lasers",
+		"requiredResource": "Aluminum",
+		"upgradesTo": "Giant Death Robot Bunny",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Giant Death Robot Bunny",
+		"unitType": "Armored",
+		"replaces": "Giant Death Robot",
+		"uniqueTo": "Rabbit Warrior Tribe",
+		"movement": 5,
+		"strength": 165,
+		"cost": 450,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Uranium",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "gdrAttack"
 	},
 	{
 		"name": "Longswordsman Bunny",
@@ -134,6 +179,7 @@
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
+
 	{
 		"name": "Musketman Bunny",
 		"unitType": "Gunpowder",
