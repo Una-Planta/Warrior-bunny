@@ -22,7 +22,7 @@
 		"cost": 80
 	},
 	{
-		"name": "Settler Bunny",
+		"name": "Setleer Bunny",
 		"uniqueTo": "Rabbit Warrior Tribe",
 		"unitType": "Civilian",
 		"replaces": "Settler",
@@ -32,7 +32,7 @@
 			"Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20,
-		"UnitIcons": "Setleer Bunny.png"
+		"UnitIcons": "Setleer Bunny"
 	},
 	{
 		"name": "Scout Bunny",
