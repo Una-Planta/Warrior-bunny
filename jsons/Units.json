@@ -243,4 +243,28 @@
 		"uniques": ["Never appears as a Barbarian unit", "[+15]% XP gained from combat"],
 		"attackSound": "tankshot"
 	},
-]
+	{
+	"name": "Loponny",		
+"unitType": "Sword",		
+"replaces": "Great General",
+"strength": 10,
+"movement": 4,
+"uniqueTo": "Rabbit Warrior Tribe",
+"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>",
+	"Cannot be purchased", 
+        "[+20]% Strength bonus for [Military] units within [2] tiles", 
+        "Can instantly construct a [Citadel] improvement <by consuming this unit>", 			
+        "Great Person - [War]", "Unbuildable",
+      //"Only available <after discovering [Leader Assigned]>", "Uncapturable",
+      //Era Strength
+        "[+50]% Strength <during the [Classical era]>",
+        "[+100]% Strength <during the [Medieval era]>",
+        "[+150]% Strength <during the [Renaissance era]>",
+        "[+200]% Strength <during the [Industrial era]>",
+        "[+250]% Strength <during the [Modern era]>",
+        "[+300]% Strength <during the [Atomic era]>",
+        "[+350]% Strength <during the [Information era]>",
+        "[+400]% Strength <during the [Future era]>",
+        "Only available <for [Rabbit Warrior Tribe]>",
+	},
+ ]
