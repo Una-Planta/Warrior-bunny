@@ -7,14 +7,14 @@
 		"food": 6,
 		"gold": 8,
 		"happiness": 6,
-		"production": 7,
-		"science": 6,
+		"production": 8,
+		"science": 5,
 		"military": 10,
 		"priorities": {
 	                "Honor": 40,
 	        	"Commerce": 30,
 	        	"Autocracy": 50,
-},
+	        	       },
 		"warMongering": 8,
 		"civilopediaText": [
 			{
