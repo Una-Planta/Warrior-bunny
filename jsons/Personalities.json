@@ -2,22 +2,26 @@
 	{
 		"name": "Tyuule",
 		"preferredVictoryType": "Domination",
-		"culture": 7,
+		"culture": 6,
 		"faith": 3,
-		"food": 5,
-		"gold": 9,
-		"happiness": 5,
-		"production": 5,
-		"science": 7,
-		"military": 8,
+		"food": 6,
+		"gold": 8,
+		"happiness": 6,
+		"production": 7,
+		"science": 6,
+		"military": 10,
 		"priorities": {
-			"Liberty": 30,
-			"Commerce": 20,
-			"Autocracy": 10
-		},
-		"warMongering": 5,
+	                "Honor": 40,
+	        	"Commerce": 30,
+	        	"Autocracy": 50,
+
+}
+},
+		"warMongering": 8,
 		"civilopediaText": [
-			{"text": "Simon Bolivar, known to be a great general, *and a tyrant*, who tried to conquer the whole continent. He prefers to have a strong military, don't mess with him, or you'll pay dearly."}
+			{
+				"text": "Tyuule es la líder decidida y estratega de las Guerreras Conejas, enfocada en la resistencia y la conquista para proteger a su gente. Bajo su mando, la civilización de las Guerreras Conejas lucha ferozmente contra cualquier amenaza, buscando siempre la supremacía militar y territorial."
+			}
 		]
 	}
 ]
