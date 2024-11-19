@@ -11,7 +11,9 @@
             "Scientific": 0,
       },
         "uniques": [
-          "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
+          "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+           "Only available <after discovering [Ancient Warrior Bunny Tech]>"
+          
         ],
         "policies": [
             {
