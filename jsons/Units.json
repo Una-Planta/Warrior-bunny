@@ -44,7 +44,8 @@
 	"movement": 4,
 	"cost": 30,
 	"requiredTech": "Sailing",
-	"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
+	"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>",
+		"May create improvements on water resources",
          "Uncapturable", "Automation is a primary action"]
 	},
 //Archer, Range gunspowder
@@ -63,7 +64,7 @@
 	"attackSound": "arrow"
 	},
 	{
-	"name": "Composite Bowman",
+	"name": "BunBow",
 	"unitType": "Archery",
 	"replaces": "Composite Bowman",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -91,7 +92,7 @@
 	"attackSound": "crossbow"
 	},
 	{
-	"name": "Gatling Gun",
+	"name": "Carrotling Gun",
 	"unitType": "Ranged Gunpowder",
 	"replaces": "Gatling Gun",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -106,7 +107,7 @@
 	"attackSound": "machinegun"
 	},
 	{
-	"name": "Machine Gun",
+	"name": "Harestorm",
 	"unitType": "Ranged Gunpowder",
 	"replaces": "Machine Gun",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -116,9 +117,46 @@
 	"rangedStrength": 60,
 	"cost": 350,
 	"requiredTech": "Ballistics",
-	"upgradesTo": "Mechanized Infantry",
+	"upgradesTo": "Bazooka",
 	"attackSound": "machinegun"
 	// Upgrades to Bazooka in BNW
+	},
+	{
+	"name": "Machine Gun",
+	"unitType": "Ranged Gunpowder",
+	"range": 1,
+	"movement": 2,
+	"strength": 60,
+	"rangedStrength": 60,
+	"cost": 350,
+	"requiredTech": "Ballistics",
+	"upgradesTo": "Bazooka",
+	"attackSound": "machinegun"
+	// Upgrades to Bazooka in BNW
+	},
+	{
+	"name": "Bazooka",
+	"unitType": "Ranged Gunpowder",
+	"range": 1,
+	"movement": 2,
+	"strength": 80,
+	"rangedStrength": 80,
+	"cost": 380,
+	"requiredTech": "Ballistics",
+	"attackSound": "cannon"
+	},
+	{
+	"name": "Bunny Blaster",
+	"unitType": "Ranged Gunpowder",
+	"uniqueTo": "Rabbit Warrior Tribe",
+	"replaces": "Bazooka",
+	"range": 1,
+	"movement": 2,
+	"strength": 80,
+	"rangedStrength": 80,
+	"cost": 380,
+	"requiredTech": "Ballistics",
+	"attackSound": "cannon"
 	},
 //Mounted, Armored
 	{
@@ -285,7 +323,7 @@
 	},
 
 	{
-	"name": "Flarehopper",
+	"name": "Harequebus",
 	"unitType": "Gunpowder",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"replaces": "Musketman",
@@ -350,7 +388,7 @@
 	},
 //Spaek
 	{
-	"name": "Spearman",
+	"name": "Harepike",
 	"unitType": "Sword",
 	"replaces": "Spearman",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -364,7 +402,7 @@
 	"attackSound": "metalhit"
 	},
 	{
-	"name": "Pikeman",
+	"name": "Piercing Hopper",
 	"unitType": "Sword",
 	"replaces": "Pikeman",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -378,7 +416,7 @@
 	"attackSound": "metalhit"
 	},
 	{
-	"name": "Lancer",
+	"name": "Leaping Lance",
 	"unitType": "Mounted",
 	"replaces": "Lancer",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -394,7 +432,7 @@
 	"attackSound": "horse"
 	},
 	{
-	"name": "Anti-Tank Gun",
+	"name": "Bunny Buster",
 	"unitType": "Gunpowder",
 	"replaces": "Anti-Tank Gun",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -407,7 +445,7 @@
 	"attackSound": "machinegun"
 	},
 	{
-	"name": "Helicopter Gunship",
+	"name": "Sky Hopper",
 	"unitType": "Helicopter",
 	"replaces": "Helicopter Gunship",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -422,7 +460,7 @@
 	},
 //Water Mele
 	{
-	"name": "Trireme",
+	"name": "Paddlepaw",
 	"unitType": "Melee Water",
 	"replaces": "Trireme",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -436,7 +474,7 @@
 	"attackSound": "nonmetalhit"
 	},
 	{
-	"name": "Caravel",
+	"name": "Harevel",
 	"unitType": "Melee Water",
 	"replaces": "Caravel",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -451,7 +489,7 @@
 	"attackSound": "cannon"
 	},
 	{
-	"name": "Privateer",
+	"name": "Bunny Corsair",
 	"unitType": "Melee Water",
 	"replaces": "Privateer",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -464,7 +502,7 @@
 	"attackSound": "cannon"
 	},
 	{
-	"name": "Ironclad",
+	"name": "Steel Hopper",
 	"unitType": "Melee Water",
 	"replaces": "Ironclad",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -479,7 +517,7 @@
 	"attackSound": "shipguns"
 	},
 	{
-	"name": "Destroyer",
+	"name": "Carrot Crusher",
 	"unitType": "Melee Water",
 	"replaces": "Destroyer",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -493,7 +531,7 @@
 	"attackSound": "shipguns"
 	},
 	{
-	"name": "Submarine",
+	"name": "Silent Burrower",
 	"unitType": "Submarine",
 	"replaces": "Submarine",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -507,7 +545,7 @@
 	"attackSound": "torpedo"
 	},
 	{
-	"name": "Nuclear Submarine",
+	"name": "Burrow Nuker",
 	"unitType": "Submarine",
 	"replaces": "Nuclear Submarine",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -522,7 +560,7 @@
 	},
 //range wate
 	{
-	"name": "Galleass",
+	"name": "Hareassault",
 	"unitType": "Ranged Water",
 	"replaces": "Galleass",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -537,7 +575,7 @@
 	"attackSound": "arrow"
 	},
 	{
-	"name": "Frigate",
+	"name": "Bunfire",
 	"unitType": "Ranged Water",
 	"replaces": "Frigate",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -553,7 +591,7 @@
 	"attackSound": "shipCannonVolley"
 	},
 	{
-	"name": "Battleship",
+	"name": "Carrotnade",
 	"unitType": "Ranged Water",
 	"replaces": "Battleship",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -570,7 +608,7 @@
 	// Does not actually upgrade to Missile Cruisers
 	},
 	{
-	"name": "Missile Cruiser",
+	"name": "Hopper Launcher",
 	"unitType": "Ranged Water",
 	"replaces": "Missile Cruiser",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -588,7 +626,7 @@
 	},
 //Grat person
 	{
-	"name": "Great Artist",
+	"name": "Harebrush Maestro",
 	"unitType": "Civilian",
 	"replaces": "Great Artist",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -599,7 +637,7 @@
 	"movement": 2
 	},
 	{
-	"name": "Great Scientist",
+	"name": "Bunny Brilliance",
 	"unitType": "Civilian",
 	"replaces": "Great Scientist",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -610,7 +648,7 @@
 	"movement": 2
 	},
 	{
-	"name": "Great Merchant",
+	"name": "Carrot Trader",
 	"unitType": "Civilian",
 	"replaces": "Great Merchant",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -620,7 +658,7 @@
 	"movement": 2
 	},
 	{
-	"name": "Great Engineer",
+	"name": "Burrow Architect",
 	"unitType": "Civilian",
 	"replaces": "Great Engineer",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -630,7 +668,7 @@
 	"movement": 2
 	},
 	{
-	"name": "Great Prophet",
+	"name": "Hopper Oracle",
 	"unitType": "Civilian",
 	"replaces": "Great Prophet",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -671,7 +709,7 @@
         "Only available <for [Rabbit Warrior Tribe]>",
 	},
 	{
-	"name": "Missionary",
+	"name": "Faithful Hopper",
 	"unitType": "Civilian",
 	"replaces": "Missionary",
 	"uniqueTo": "Rabbit Warrior Tribe",
@@ -684,7 +722,7 @@
 	"religiousStrength": 1000
 	},
 	{
-	"name": "Inquisitor",
+	"name": "Warren Guardian",
 	"unitType": "Civilian",
 	"replaces": "Inquisitor",
 	"uniqueTo": "Rabbit Warrior Tribe",
