@@ -65,6 +65,8 @@
 	{
 	"name": "Composite Bowman",
 	"unitType": "Archery",
+	"replaces": "Archer",
+	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 2,
 	"strength": 7,
 	"rangedStrength": 11,
@@ -77,6 +79,8 @@
 	{
 	"name": "Crossbowman",
 	"unitType": "Archery",
+	"replaces": "Archer",
+	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 2,
 	"strength": 13,
 	"rangedStrength": 18,
@@ -89,6 +93,8 @@
 	{
 	"name": "Gatling Gun",
 	"unitType": "Ranged Gunpowder",
+	"replaces": "Archer",
+	"uniqueTo": "Rabbit Warrior Tribe",
 	"range": 1,
 	"movement": 2,
 	"strength": 30,
@@ -102,6 +108,8 @@
 	{
 	"name": "Machine Gun",
 	"unitType": "Ranged Gunpowder",
+	"replaces": "Archer",
+	"uniqueTo": "Rabbit Warrior Tribe",
 	"range": 1,
 	"movement": 2,
 	"strength": 60,
@@ -115,7 +123,7 @@
 //Mounted, Armored
 	{
 	"name": "Hareon Chariot",
-	"unitType": "Archery",
+	"unitType": "Archery", 
 	"replaces": "Chariot Archer",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 4,
@@ -249,6 +257,8 @@
 	{
 	"name": "Blade Bunny",
 	"unitType": "Sword",
+	"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 2,
 	"strength": 14,
 	"cost": 75,
@@ -329,6 +339,8 @@
 	{
 	"name": "Bunny Vanguard",
 	"unitType": "Gunpowder",
+	"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 3,
 	"strength": 100,
 	"cost": 425,
@@ -340,6 +352,8 @@
 	{
 	"name": "Spearman",
 	"unitType": "Sword",
+	"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 2,
 	"strength": 11,
 	"cost": 56,
@@ -352,6 +366,8 @@
 	{
 	"name": "Pikeman",
 	"unitType": "Sword",
+	"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 2,
 	"strength": 16,
 	"cost": 90,
@@ -364,6 +380,8 @@
 	{
 	"name": "Lancer",
 	"unitType": "Mounted",
+	"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 4,
 	"strength": 25,
 	"cost": 185,
@@ -378,6 +396,8 @@
 	{
 	"name": "Anti-Tank Gun",
 	"unitType": "Gunpowder",
+	"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 2,
 	"strength": 50,
 	"cost": 300,
@@ -389,6 +409,8 @@
 	{
 	"name": "Helicopter Gunship",
 	"unitType": "Helicopter",
+	"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 6,
 	"strength": 60,
 	"cost": 425,
@@ -402,6 +424,8 @@
 	{
 		"name": "Trireme",
 		"unitType": "Melee Water",
+		"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 		"movement": 4,
 		"strength": 10,
 		"cost": 45,
@@ -414,6 +438,8 @@
 	{
 		"name": "Caravel",
 		"unitType": "Melee Water",
+		"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 		"movement": 4,
 		"strength": 20,
 		"cost": 120,
@@ -427,6 +453,8 @@
 	{
 		"name": "Privateer",
 		"unitType": "Melee Water",
+		"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 		"movement": 5,
 		"strength": 25,
 		"cost": 150,
@@ -438,6 +466,8 @@
 	{
 		"name": "Ironclad",
 		"unitType": "Melee Water",
+		"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 		"movement": 3,
 		"strength": 45,
 		"cost": 250,
@@ -451,6 +481,8 @@
 	{
 		"name": "Destroyer",
 		"unitType": "Melee Water",
+		"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 		"movement": 6,
 		"strength": 55,
 		"interceptRange": 2,
@@ -463,6 +495,8 @@
 	{
 		"name": "Submarine",
 		"unitType": "Submarine",
+		"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 		"movement": 5,
 		"strength": 35,
 		"rangedStrength": 60,
@@ -475,6 +509,8 @@
 	{
 		"name": "Nuclear Submarine",
 		"unitType": "Submarine",
+		"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 		"movement": 6,
 		"strength": 50,
 		"range": 3,
@@ -484,9 +520,14 @@
 		"uniques": ["[+75]% Strength <when attacking>", "Can only attack [Water] tiles", "[+1] Sight", "Can carry [2] [Missile] units", "Never appears as a Barbarian unit"],
 		"attackSound": "torpedo"
 	},
+//range water
+	
+//Grat person
 	{
 		"name": "Great Artist",
 		"unitType": "Civilian",
+		"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 		"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
             "Can instantly construct a [Landmark] improvement <by consuming this unit>",
@@ -496,6 +537,8 @@
 	{
 		"name": "Great Scientist",
 		"unitType": "Civilian",
+		"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 		"uniques": [
             "Can hurry technology research",
             "Can instantly construct a [Academy] improvement <by consuming this unit>",
@@ -505,6 +548,8 @@
 	{
 		"name": "Great Merchant",
 		"unitType": "Civilian",
+		"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
             "Can instantly construct a [Customs house] improvement <by consuming this unit>",
 			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
@@ -513,6 +558,8 @@
 	{
 		"name": "Great Engineer",
 		"unitType": "Civilian",
+		"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 		"uniques": ["Can speed up construction of a building",
             "Can instantly construct a [Manufactory] improvement <by consuming this unit>",
             "Great Person - [Production]", "Unbuildable", "Uncapturable"],
@@ -521,6 +568,8 @@
 	{
 		"name": "Great Prophet",
 		"unitType": "Civilian",
+		"replaces": "Horseman",
+	"uniqueTo": "Rabbit Warrior Tribe",
 		"uniques": [
             "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
             "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
