@@ -65,7 +65,7 @@
 	{
 	"name": "Composite Bowman",
 	"unitType": "Archery",
-	"replaces": "Archer",
+	"replaces": "Composite Bowman",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 2,
 	"strength": 7,
@@ -79,7 +79,7 @@
 	{
 	"name": "Crossbowman",
 	"unitType": "Archery",
-	"replaces": "Archer",
+	"replaces": "Crossbowman",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 2,
 	"strength": 13,
@@ -93,7 +93,7 @@
 	{
 	"name": "Gatling Gun",
 	"unitType": "Ranged Gunpowder",
-	"replaces": "Archer",
+	"replaces": "Gatling Gun",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"range": 1,
 	"movement": 2,
@@ -108,7 +108,7 @@
 	{
 	"name": "Machine Gun",
 	"unitType": "Ranged Gunpowder",
-	"replaces": "Archer",
+	"replaces": "Machine Gun",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"range": 1,
 	"movement": 2,
@@ -132,7 +132,7 @@
 	"cost": 66,
 	"requiredTech": "The Wheel",
 	"requiredResource": "Horses",
-	"upgradesTo": "Knight Bunny",
+	"upgradesTo": "Knight",
 	"obsoleteTech": "Chivalry",
 	"uniques": ["No defensive terrain bonus", "Rough terrain penalty",
 	"Never appears as a Barbarian unit"],
@@ -163,7 +163,7 @@
 	"cost": 140,
 	"requiredTech": "Chivalry",
 	"obsoleteTech": "Military Science",
-	"upgradesTo": "Cavalry Bunny",
+	"upgradesTo": "Cavalry",
 	"requiredResource": "Horses",
 	"uniques": ["Can move after attacking","No defensive terrain bonus", 
 	"[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
@@ -180,7 +180,7 @@
 	"requiredTech": "Military Science",
 	"obsoleteTech": "Combustion",
 	"requiredResource": "Horses",
-	"upgradesTo": "Landship Bunny",
+	"upgradesTo": "Landship",
 	"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 	"attackSound": "horse"
 	},
@@ -194,7 +194,7 @@
 	"cost": 380,
 	"requiredTech": "Combustion",
 	"requiredResource": "Oil",
-	"upgradesTo": "Tank Bunny",
+	"upgradesTo": "Tank",
 	"obsoleteTech": "Combined Arms",
 	"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 	"attackSound": "tankshot"
@@ -209,7 +209,7 @@
 	"cost": 410,
 	"requiredTech": "Combined Arms",
 	"requiredResource": "Oil",
-	"upgradesTo": "Modern Armor Bunny",
+	"upgradesTo": "Modern Armor",
 	"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 	"attackSound": "tankshot"
 	},
@@ -223,7 +223,7 @@
 	"cost": 465,
 	"requiredTech": "Lasers",
 	"requiredResource": "Aluminum",
-	"upgradesTo": "Giant Death Robot Bunny",
+	"upgradesTo": "Giant Death Robot",
 	"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
 	"attackSound": "tankshot"
 	},
@@ -257,7 +257,7 @@
 	{
 	"name": "Blade Bunny",
 	"unitType": "Sword",
-	"replaces": "Horseman",
+	"replaces": "Swordsman",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 2,
 	"strength": 14,
@@ -278,7 +278,7 @@
 	"strength": 24,
 	"cost": 140,
 	"requiredTech": "Steel",
-	"upgradesTo": "Musketman Bunny",
+	"upgradesTo": "Musketman",
 	"obsoleteTech": "Gunpowder",
 	"requiredResource": "Iron",
 	"attackSound": "metalhit"
@@ -293,7 +293,7 @@
 	"strength": 27,
 	"cost": 175,
 	"requiredTech": "Gunpowder",
-	"upgradesTo": "Rifleman Bunny",
+	"upgradesTo": "Rifleman",
 	"obsoleteTech": "Rifling",
 	"attackSound": "shot"
 	},
@@ -319,7 +319,7 @@
 	"strength": 55,
 	"cost": 355,
 	"requiredTech": "Replaceable Parts",
-	"upgradesTo": "Infantry Bunny",
+	"upgradesTo": "Infantry",
 	"obsoleteTech": "Plastics",
 	"attackSound": "shot"
 	},
@@ -332,14 +332,14 @@
 	"strength": 77,
 	"cost": 410,
 	"requiredTech": "Plastics",
-	"upgradesTo": "Mechanized Infantry Bunny",
+	"upgradesTo": "Mechanized Infantry",
 	"obsoleteTech": "Mobile Tactics",
 	"attackSound": "shot"
 	},
 	{
 	"name": "Bunny Vanguard",
 	"unitType": "Gunpowder",
-	"replaces": "Horseman",
+	"replaces": "Mechanized Infantry",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 3,
 	"strength": 100,
@@ -352,7 +352,7 @@
 	{
 	"name": "Spearman",
 	"unitType": "Sword",
-	"replaces": "Horseman",
+	"replaces": "Spearman",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 2,
 	"strength": 11,
@@ -366,7 +366,7 @@
 	{
 	"name": "Pikeman",
 	"unitType": "Sword",
-	"replaces": "Horseman",
+	"replaces": "Pikeman",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 2,
 	"strength": 16,
@@ -380,7 +380,7 @@
 	{
 	"name": "Lancer",
 	"unitType": "Mounted",
-	"replaces": "Horseman",
+	"replaces": "Lancer",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 4,
 	"strength": 25,
@@ -396,7 +396,7 @@
 	{
 	"name": "Anti-Tank Gun",
 	"unitType": "Gunpowder",
-	"replaces": "Horseman",
+	"replaces": "Anti-Tank Gun",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 2,
 	"strength": 50,
@@ -409,7 +409,7 @@
 	{
 	"name": "Helicopter Gunship",
 	"unitType": "Helicopter",
-	"replaces": "Horseman",
+	"replaces": "Helicopter Gunship",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 6,
 	"strength": 60,
@@ -424,7 +424,7 @@
 	{
 	"name": "Trireme",
 	"unitType": "Melee Water",
-	"replaces": "Horseman",
+	"replaces": "Trireme",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 4,
 	"strength": 10,
@@ -438,7 +438,7 @@
 	{
 	"name": "Caravel",
 	"unitType": "Melee Water",
-	"replaces": "Horseman",
+	"replaces": "Caravel",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 4,
 	"strength": 20,
@@ -453,7 +453,7 @@
 	{
 	"name": "Privateer",
 	"unitType": "Melee Water",
-	"replaces": "Horseman",
+	"replaces": "Privateer",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 5,
 	"strength": 25,
@@ -466,7 +466,7 @@
 	{
 	"name": "Ironclad",
 	"unitType": "Melee Water",
-	"replaces": "Horseman",
+	"replaces": "Ironclad",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 3,
 	"strength": 45,
@@ -481,7 +481,7 @@
 	{
 	"name": "Destroyer",
 	"unitType": "Melee Water",
-	"replaces": "Horseman",
+	"replaces": "Destroyer",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 6,
 	"strength": 55,
@@ -495,7 +495,7 @@
 	{
 	"name": "Submarine",
 	"unitType": "Submarine",
-	"replaces": "Horseman",
+	"replaces": "Submarine",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 5,
 	"strength": 35,
@@ -509,7 +509,7 @@
 	{
 	"name": "Nuclear Submarine",
 	"unitType": "Submarine",
-	"replaces": "Horseman",
+	"replaces": "Nuclear Submarine",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 6,
 	"strength": 50,
@@ -524,7 +524,7 @@
 	{
 	"name": "Galleass",
 	"unitType": "Ranged Water",
-	"replaces": "Horseman",
+	"replaces": "Galleass",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 3,
 	"strength": 16,
@@ -539,7 +539,7 @@
 	{
 	"name": "Frigate",
 	"unitType": "Ranged Water",
-	"replaces": "Horseman",
+	"replaces": "Frigate",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 5,
 	"strength": 25,
@@ -555,7 +555,7 @@
 	{
 	"name": "Battleship",
 	"unitType": "Ranged Water",
-	"replaces": "Horseman",
+	"replaces": "Battleship",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 5,
 	"strength": 55,
@@ -572,7 +572,7 @@
 	{
 	"name": "Missile Cruiser",
 	"unitType": "Ranged Water",
-	"replaces": "Horseman",
+	"replaces": "Missile Cruiser",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"movement": 7,
 	"strength": 80,
@@ -590,7 +590,7 @@
 	{
 	"name": "Great Artist",
 	"unitType": "Civilian",
-	"replaces": "Horseman",
+	"replaces": "Great Artist",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
@@ -601,7 +601,7 @@
 	{
 	"name": "Great Scientist",
 	"unitType": "Civilian",
-	"replaces": "Horseman",
+	"replaces": "Great Scientist",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"uniques": [
             "Can hurry technology research",
@@ -612,7 +612,7 @@
 	{
 	"name": "Great Merchant",
 	"unitType": "Civilian",
-	"replaces": "Horseman",
+	"replaces": "Great Merchant",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
             "Can instantly construct a [Customs house] improvement <by consuming this unit>",
@@ -622,7 +622,7 @@
 	{
 	"name": "Great Engineer",
 	"unitType": "Civilian",
-	"replaces": "Horseman",
+	"replaces": "Great Engineer",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"uniques": ["Can speed up construction of a building",
             "Can instantly construct a [Manufactory] improvement <by consuming this unit>",
@@ -632,7 +632,7 @@
 	{
 	"name": "Great Prophet",
 	"unitType": "Civilian",
-	"replaces": "Horseman",
+	"replaces": "Great Prophet",
 	"uniqueTo": "Rabbit Warrior Tribe",
 	"uniques": [
             "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
@@ -673,6 +673,8 @@
 	{
 	"name": "Missionary",
 	"unitType": "Civilian",
+	"replaces": "Missionary",
+	"uniqueTo": "Rabbit Warrior Tribe",
 	"uniques": [
             "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
             "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
@@ -684,6 +686,8 @@
 	{
 	"name": "Inquisitor",
 	"unitType": "Civilian",
+	"replaces": "Inquisitor",
+	"uniqueTo": "Rabbit Warrior Tribe",
 	"uniques": ["Prevents spreading of religion to the city it is next to",
 	"Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>",
             "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
