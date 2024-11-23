@@ -10,11 +10,21 @@
 		"production": 8,
 		"science": 5,
 		"military": 10,
-		"priorities": {
-	                "Honor": 40,
-	        	"Warrior Bunny": 50,
-	        	"Autocracy": 50,
-	        	       },
+                "priorities": {
+	"Tradition": 2,
+	"Liberty": 4,
+	"Honor": 8,
+	"Piety": 2,
+	"Aesthetics": 1,
+	"Patronage": 2,
+	"Commerce": 6,
+	"Exploration": 4,
+	"Rationalism": 2,
+	"Freedom": 6,
+	"Autocracy": 10,
+	"Order": 7,
+}
+,
 		"warMongering": 8,
 		"civilopediaText": [
 			{
