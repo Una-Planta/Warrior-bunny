@@ -54,7 +54,7 @@
             {
                 "name": "Paz Post Guerra",
                 "uniques": ["[+4 Science] from every [Garden of Flower]",
-                 "[+10]% growth [in all cities]", "[+20]% growth [in Capital]"
+                 "[+10]% Food [in all cities]", "[+20]% Food [in Capital]"
                 ],
                 "requires": ["Ida y Vuelta", "Muerte del principe"],
                 "row": 3,
