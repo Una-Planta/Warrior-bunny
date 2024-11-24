@@ -685,18 +685,16 @@
 	"religiousStrength": 1000
 	},
 	{
-	"name": "Lopunny",	
-        "unitType": "Sword",	
+	"name": "Lopunny",
         "replaces": "Great General",
-        "strength": 10,
-        "movement": 4,
-        "uniqueTo": "Rabbit Warrior Tribe",
-        "uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>",
-	"Cannot be purchased", 
-        "[+20]% Strength bonus for [Military] units within [2] tiles", 
-        "Can instantly construct a [Citadel] improvement <by consuming this unit>", 	
-        "Great Person - [War]", "Unbuildable",
-        "Uncapturable",
+	"uniqueTo": "Rabbit Warrior Tribe",
+	"unitType": "Civilian",		
+	"uniques": [
+	"Empire enters a [8]-turn Golden Age <by consuming this unit>",
+        "[+15]% Strength bonus for [Military] units within [2] tiles",
+        "Can instantly construct a [Citadel] improvement <by consuming this unit>",		"Can be earned through combat",
+	"Great Person - [War]", "Unbuildable", "Uncapturable"],
+	"movement": 2
 	},
 	{
 	"name": "Faithful Hopper",
