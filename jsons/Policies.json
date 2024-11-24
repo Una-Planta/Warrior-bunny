@@ -45,7 +45,7 @@
             },
             {
                 "name": "Muerte del principe",
-                "uniques": ["[+2 Hapiness] from every [Garden of Flower]",
+                "uniques": ["[+2 Happiness] from every [Garden of Flower]",
                   "[+2 Happiness] [in all cities]", "[+5 Happiness] [in Capital]"],
                 "requires": ["Contra el imperio"],
                 "row": 2,
