@@ -19,21 +19,24 @@
         "policies": [
             {
                 "name": "Rencor",
-                "uniques": ["[+15]% Strength <for [Wounded] units>"],
+                "uniques": ["[+2 Culture] from every [Garden of Flower]",
+                  "[+15]% Strength <for [Wounded] units>"],
                 "row": 1,
                 "column": 2
             },
             {
                 "name": "Contra el imperio",
-                "uniques": [
-                    "[+15]% Strength <when fighting units from a Civilization with more Cities than you>"
+                "uniques": ["[+2 Production] from every [Garden of Flower]",
+                    "[+15]% Strength <when fighting units from a Civilization with more Cities than you>",
+                  
                 ],
                 "row": 1,
                 "column": 4
             },
             {
                 "name": "Ida y Vuelta",
-                "uniques": ["[Ranged Gunpowder] units gain the [Ida y Vuelta] promotion",
+                "uniques": ["[+2 Faith] from every [Garden of Flower]",
+                  "[Ranged Gunpowder] units gain the [Ida y Vuelta] promotion",
                   "[Archery] units gain the [Ida y Vuelta] promotion"
                 ],
                 "requires": ["Rencor"],
@@ -42,15 +45,16 @@
             },
             {
                 "name": "Muerte del principe",
-                "uniques": ["[+2 Happiness] [in all cities]", "[+5 Happiness] [in Capital]"],
+                "uniques": ["[+2 Hapiness] from every [Garden of Flower]",
+                  "[+2 Happiness] [in all cities]", "[+5 Happiness] [in Capital]"],
                 "requires": ["Contra el imperio"],
                 "row": 2,
                 "column": 4
             },
             {
                 "name": "Paz Post Guerra",
-                "uniques": [
-                 "[+20]% growth [in all cities]",
+                "uniques": ["[+4 Science] from every [Garden of Flower]",
+                 "[+10]% growth [in all cities]", "[+20]% growth [in Capital]"
                 ],
                 "requires": ["Ida y Vuelta", "Muerte del principe"],
                 "row": 3,
