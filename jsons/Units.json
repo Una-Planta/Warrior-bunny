@@ -345,7 +345,7 @@
 	"cost": 255,
 	"requiredTech": "Rifling",
 	"obsoleteTech": "Replaceable Parts",
-	"upgradesTo": "Great War Infantry Bunny",
+	"upgradesTo": "Great War Infantry",
 	"attackSound": "shot"
 	},
 	{
