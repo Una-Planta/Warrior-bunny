@@ -11,7 +11,8 @@
             "Scientific": 0,
       },
         "uniques": [
-          "[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+          "New [Military] units start with [15] Experience [in all cities]",
+          "[+2 Food] from every [Garden of Flower]",
            "Only available <after discovering [Ancient Warrior Bunny Tech]>"
           
         ],
