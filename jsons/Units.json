@@ -718,7 +718,7 @@
             "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
 	"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
 	"[-1] Sight", "Unbuildable", "Religious Unit", "Only available <when religion is enabled>"],
-	"movement": 4,
+	"movement": 5,
 	"religiousStrength": 1000
 	},
 	{
