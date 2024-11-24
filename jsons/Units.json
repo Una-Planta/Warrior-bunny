@@ -697,15 +697,6 @@
         "Can instantly construct a [Citadel] improvement <by consuming this unit>", 	
         "Great Person - [War]", "Unbuildable",
         "Uncapturable",
-      //Era Strength
-        "[+50]% Strength <before the [Classical era]>",
-	"[+100]% Strength <before the [Medieval era]>",
-        "[+150]% Strength <before the [Renaissance era]>",
-        "[+200]% Strength <before the [Industrial era]>",
-        "[+250]% Strength <before the [Modern era]>",
-        "[+300]% Strength <before the [Atomic era]>",
-        "[+350]% Strength <before the [Information era]>",
-        "[+400]% Strength <before the [Future era]>"
 	},
 	{
 	"name": "Faithful Hopper",
